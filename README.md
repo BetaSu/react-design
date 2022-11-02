@@ -2,7 +2,7 @@
 
 《React 设计原理》勘误与资料与交流
 
-- [勘误请提 PR](https://github.com/BetaSu/react-design/pulls)
+- [勘误请提 issue](https://github.com/BetaSu/react-design/pulls)
 
 - [资料](./data.md)
 
