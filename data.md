@@ -64,7 +64,7 @@
 
 本书推荐方式和官方方式
 
-[地址](../preparation/source.md)
+[地址](./assets/source.md)
 
 ### 示例 3-1
 
