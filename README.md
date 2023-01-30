@@ -10,6 +10,6 @@
 
 <image width="200" src="https://user-images.githubusercontent.com/15828041/199389833-e392507a-9125-4f44-97b8-dc9872b8fb50.png"/>
 
-- 配套视频课程：
+- [配套视频课程：](https://qux.xet.tech/s/3N0RM)
 
 <image width="400" src="https://user-images.githubusercontent.com/15828041/210295659-dab49470-340d-4e87-8bfc-f785bc22a554.jpg"/>
