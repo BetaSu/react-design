@@ -81,7 +81,7 @@ yarn link
 接下来我们通过`CRA`在其他地方创建新项目。这里我们随意起名，比如“a-react-demo”。
 
 ```sh
-npx CRA a-react-demo
+npx create-react-app a-react-demo
 ```
 
 在新项目中，将`react`与`react-dom`2 个包指向`facebook/react`下我们刚才生成的包。
