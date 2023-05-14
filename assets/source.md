@@ -63,15 +63,15 @@ yarn build react/index,react/jsx,react-dom/index,scheduler --type=NODE
 
 ```
 
-现在源码目录`build/node_modules`下会生成最新代码的包。我们为`react`、`react-dom`创建`yarn link`。
+现在源码目录`build/oss-stable`下会生成最新代码的包。我们为`react`、`react-dom`创建`yarn link`。
 
 > 通过`yarn link`可以改变项目中依赖包的目录指向
 
 ```sh
-cd build/node_modules/react
+cd build/oss-stable/react
 # 声明react指向
 yarn link
-cd build/node_modules/react-dom
+cd build/oss-stable/react-dom
 # 声明react-dom指向
 yarn link
 ```
